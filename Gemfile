@@ -17,7 +17,7 @@ gem 'high_voltage'
 gem 'simple_form'
 gem 'thin'
 gem 'activerecord-tableless'
-gem 'google_drive'
+gem 'google_drive', '~> 2.0'
 
 group :development do
   gem 'better_errors'
