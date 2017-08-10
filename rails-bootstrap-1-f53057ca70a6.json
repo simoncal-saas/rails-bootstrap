@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rails-bootstrap-1",
+  "private_key_id": "f53057ca70a631076d7ab4f2a18ce3d5c6fd875b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAHx8h6HIVQ9JJ\nvngAcx0WzXHme0f+Y5CGRSfSU6SPjsglZFhi8Y7x8mAWgIKIgjbJKf3R5dtgcRu2\nhT4gmgSwwIHIa3eEjnsyC9pP0GrummXZzK8L1CnR8BG1p0wjQ8e1dq6oXJDLlEFt\niwsRgQMnkcIxpbf+rsJwv1DCkLxeZCOBiIS4QYV48VncN//8RA4LnIz48bNr6t2Y\nyC8oaHXhtNDrmGbu1TjqoLJ757bjithrv9OThkqRAga2NDgpzDcq07aZA9ZqyKx2\n6wrGMukGBiHv31TZ4NEZe1x/qkW93+2sy9IuCTgPzHnfYvyB/rRwpqRjT38tzmN+\nLHsTcvx3AgMBAAECggEAJ0iVzJCjdx6pioOkNO9UxNtYTVjq5STFofbVCCgrL2Fy\nIlcszXp4EJfPNvqq9i+t9R8dc8RMwaEPGhiPlgn4KI4MW4dB5nxdy2NqDcTfgI9Y\ngRrdtgz5SiCM9nhRVKqg1MWCPBHFV6MmZ7g1GKypEPe4Xf91KmHghz5PTKFcqu3z\nJW4JOUtIrSV2sOW2HVGXfBAbCGSBpEydHMSRcYBUjZY+PowAiUba+RnFKxxwdS/b\nXmUYiSCiSHOxzGo96XsU0v94BJLGld56BLRDrvi0LFEWvTnlBzE+/TVLzbxa9tp3\nohxTJ1LnwncJ5YIE9+Z8Ik7uk5H0yw2NI8Fnz5DLrQKBgQDmB3UzP+ZssSssjZqm\neLNb843IyHTJEaViu6uymQ9LxiM4z9vl00C5LZJlDoJ4x7xFua+dWT0pEmt+88ha\n0DZL+ESVLZgUx06Tnxf8OijeMyqG40ZJrib/4YFKHIc+8s7iBDQJWoyFQH0/rHjO\n/lRW31yKcquiYjjpNdBe1rPIDQKBgQDV0AUSzbE1JChCQcxCPEQaVxuhhB+cq758\nIHe7ThDFDOQxSU29NmALeUy6eVBtgK2n+116c9eR+c7GzL8EX+ssSsR8r+IZ555v\nPvXT7DDNEgKHTKjlGGgd1c6D2AoN2RvxymNlm53034Npc38jzTTRwrWq0qpoe1ds\nyh8LOddRkwKBgANGVefN4BTqDMhMl8gI7dzAQeN63xbBto4KR+55+VrFzliPtPy3\nnjNEr9HafAcGKOsBMrvVumYsSfV7uP15+1vng+pvxLt+/uJhIHFJzq0jI1baQ3Tn\nEs0Pw8xvTYma4VEcaDU94cQ/38iZRvsDaeX2thWOfl0IcvD3AClpexO9AoGBAM2h\nW0/DPRuDo6hdSYmmFkVS40MKI7D0x6TvQNeF88DfbhMskbRYuDQwu6dXhw9ZQyoc\nKMHc6UT+AGzXexpE+ZNGcQQNz6DkTk5lOd1P+XswR/hBtOln+LJA73WDb9/zntmC\nsOeGq3pXADaJmowfDh5yaW9ZXgRQIzuAhCyyuy87AoGAKPeoQJi5Lkz1AM/iy4CB\nziO8ajgt39mFuRc/Xgnuh1k2rJzsPS4Rg+va8ZvxHePYkpD30ncw5oZ7u9IZ3lh0\nHToGc9Uq14Zqe+FMwMVeEfD7R774vTMv4KcF3ny9bF4DujdSuRcbNFwpTbG+UOUW\nWvK7rQC2LAtptFWgL+M6P/k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rails-bootstrap@rails-bootstrap-1.iam.gserviceaccount.com",
+  "client_id": "115656613494398367876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rails-bootstrap%40rails-bootstrap-1.iam.gserviceaccount.com"
+}

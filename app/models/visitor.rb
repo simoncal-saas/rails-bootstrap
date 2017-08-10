@@ -11,7 +11,8 @@ class Visitor < ActiveRecord::Base
 
   def update_spreadsheet
 #   connection = GoogleDrive.login(Rails.application.secrets.gmail_username, Rails.application.secrets.gmail_password)
-    connection = GoogleDrive::Session.from_config("config.json")
+#   connection = GoogleDrive::Session.from_config("config.json")
+    connection = GoogleDrive::Session.from_service_account_key("rails-bootstrap-1-f53057ca70a6.json")
 
     ss = connection.spreadsheet_by_title('Rails-Bootstrap-Example')
     if ss.nil?
