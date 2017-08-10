@@ -1,32 +1,18 @@
 Rails Bootstrap
 ================
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku]https://rails-bootstrap-simoncal.herokuapp.com/
 
-This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
+This application was partially generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
 
-Rails Composer is supported by developers who purchase our RailsApps tutorials.
-
-Problems? Issues?
------------
-
-Need help? Ask on Stack Overflow with the tag 'railsapps.'
-
-Your application contains diagnostics in the README file. Please provide a copy of the README file when reporting any issues.
-
-If the application doesn't work as expected, please [report an issue](https://github.com/RailsApps/rails_apps_composer/issues)
-and include the diagnostics.
 
 Ruby on Rails
 -------------
-
 This application requires:
 
-- Ruby 2.1.5
+- Ruby 2.2.7
 - Rails 4.2.0
-
-Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
 Getting Started
 ---------------
@@ -36,6 +22,12 @@ Documentation and Support
 
 Issues
 -------------
+- gem 'google_drive', '~> 2.0' is required, as Google now requires OAuth authorization.
+ GoogleDrive.login(Rails.application.secrets.gmail_username, Rails.application.secrets.gmail_password) is no longer supported.
+
+- ruby-2.2.7 is the minimum version supported on Heroku. SimpleForm works fine with Rails 4.2.
+
+- Successfully deployed the app on localhost and Heroku, using service account option for authorization. See https://github.com/gimite/google-drive-ruby/blob/master/doc/authorization.md
 
 Similar Projects
 ----------------
